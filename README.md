@@ -7,7 +7,7 @@ Panipat, Haryana – 132103, India
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://www.linkedin.com/in/ritanshu-nijhawan/">
+  <a href="https://www.linkedin.com/in/ritanshu-nijhawan/">
     <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  <a href="https://YOUR_PORTFOLIO_LINK">
