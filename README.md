@@ -59,11 +59,11 @@ Focused on building scalable, maintainable, and production-ready applications.  
 - Emphasized clean architecture, scalability, and maintainability  
 
 ### Student Management System
-**Tech Stack:** C, File Handling  
+**Tech Stack:** Java, Java Swing, File Handling  
 
-- Built a console-based CRUD system with persistent storage  
-- Applied modular programming principles  
-- Designed a menu-driven interface for usability  
+- Developed a desktop-based Student Management System with a modern GUI using Java Swing
+- Implemented secure login and signup authentication with persistent file-based storage
+- Designed full CRUD operations (Add, Update, Delete, Search) for managing student records 
 
 ## Internship Experience
 
